@@ -1,11 +1,6 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/2/bg.png');
-  background-position:left top;
-  background-repeat:no-repeat;
-  background-attachment:scroll;
-  background-size:1900px 906px;
-  background-origin:border-box;
+  background-image:none;
   position:relative;
   left:0px;
   width:1900px;
@@ -21,78 +16,68 @@
   position:absolute;
   z-index:0;
 }
-#u17_img {
+#u53_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1024px;
-  height:620px;
+  width:1899px;
+  height:902px;
 }
-#u17 {
+#u53 {
   border-width:0px;
   position:absolute;
-  left:438px;
-  top:120px;
-  width:1024px;
-  height:620px;
+  left:1px;
+  top:0px;
+  width:1899px;
+  height:902px;
   display:flex;
 }
-#u17 .text {
+#u53 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u17_text {
+#u53_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u18_div {
+#u54_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:60px;
-  height:30px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  height:40px;
 }
-#u18 {
+#u54 {
   border-width:0px;
   position:absolute;
-  left:670px;
-  top:200px;
+  left:910px;
+  top:110px;
   width:60px;
-  height:30px;
+  height:40px;
   display:flex;
   opacity:0;
 }
-#u18 .text {
+#u54 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u18_text {
+#u54_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u19_img {
+#u55_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -100,7 +85,7 @@
   width:163px;
   height:37px;
 }
-#u19 {
+#u55 {
   border-width:0px;
   position:absolute;
   left:7px;
@@ -110,14 +95,14 @@
   display:flex;
   opacity:0;
 }
-#u19 .text {
+#u55 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u19_text {
+#u55_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

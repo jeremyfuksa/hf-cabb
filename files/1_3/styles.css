@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u114_img {
+#u115_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1024px;
   height:768px;
 }
-#u114 {
+#u115 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:768px;
   display:flex;
 }
-#u114 .text {
+#u115 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u114_text {
+#u115_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u115 {
+#u116 {
   border-width:0px;
   position:absolute;
   left:940px;
@@ -56,7 +56,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u116_img {
+#u117_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,7 +64,7 @@
   width:170px;
   height:46px;
 }
-#u116 {
+#u117 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -73,36 +73,6 @@
   height:46px;
   display:flex;
   opacity:0;
-}
-#u116 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u116_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u117_img {
-  border-width:0px;
-  position:absolute;
-  left:-5px;
-  top:-5px;
-  width:169px;
-  height:307px;
-}
-#u117 {
-  border-width:0px;
-  position:absolute;
-  left:811px;
-  top:87px;
-  width:159px;
-  height:297px;
-  display:flex;
 }
 #u117 .text {
   position:absolute;
@@ -117,7 +87,37 @@
   text-transform:none;
   visibility:hidden;
 }
+#u118_img {
+  border-width:0px;
+  position:absolute;
+  left:-5px;
+  top:-5px;
+  width:169px;
+  height:307px;
+}
 #u118 {
+  border-width:0px;
+  position:absolute;
+  left:811px;
+  top:87px;
+  width:159px;
+  height:297px;
+  display:flex;
+}
+#u118 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u118_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u119 {
   border-width:0px;
   position:absolute;
   left:811px;

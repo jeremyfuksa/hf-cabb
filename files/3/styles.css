@@ -1,16 +1,16 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/index/bg.png');
+  background-image:url('../../images/2/bg.png');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1900px 906px;
   background-origin:border-box;
-  position:static;
-  left:auto;
+  position:relative;
+  left:0px;
   width:1900px;
-  margin-left:0;
-  margin-right:0;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 .form_sketch {
@@ -21,7 +21,7 @@
   position:absolute;
   z-index:0;
 }
-#u10_img {
+#u11_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   width:1024px;
   height:620px;
 }
-#u10 {
+#u11 {
   border-width:0px;
   position:absolute;
   left:438px;
@@ -38,25 +38,25 @@
   height:620px;
   display:flex;
 }
-#u10 .text {
+#u11 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u10_text {
+#u11_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u11_div {
+#u12_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:710px;
+  width:50px;
   height:30px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -69,23 +69,55 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u11 {
+#u12 {
   border-width:0px;
   position:absolute;
-  left:688px;
-  top:456px;
-  width:710px;
+  left:1410px;
+  top:120px;
+  width:50px;
   height:30px;
   display:flex;
+  opacity:0;
 }
-#u11 .text {
+#u12 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u11_text {
+#u12_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u13_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:163px;
+  height:37px;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:7px;
+  top:23px;
+  width:163px;
+  height:37px;
+  display:flex;
+  opacity:0;
+}
+#u13 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u13_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

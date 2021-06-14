@@ -1,16 +1,16 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/index/bg.png');
+  background-image:url('../../images/2/bg.png');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1900px 906px;
   background-origin:border-box;
-  position:static;
-  left:auto;
+  position:relative;
+  left:0px;
   width:1900px;
-  margin-left:0;
-  margin-right:0;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 .form_sketch {
@@ -21,7 +21,7 @@
   position:absolute;
   z-index:0;
 }
-#u8_img {
+#u17_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   width:1024px;
   height:620px;
 }
-#u8 {
+#u17 {
   border-width:0px;
   position:absolute;
   left:438px;
@@ -38,20 +38,20 @@
   height:620px;
   display:flex;
 }
-#u8 .text {
+#u17 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u8_text {
+#u17_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u9_div {
+#u18_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,7 +69,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u9 {
+#u18 {
   border-width:0px;
   position:absolute;
   left:670px;
@@ -79,14 +79,45 @@
   display:flex;
   opacity:0;
 }
-#u9 .text {
+#u18 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u9_text {
+#u18_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u19_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:163px;
+  height:37px;
+}
+#u19 {
+  border-width:0px;
+  position:absolute;
+  left:7px;
+  top:23px;
+  width:163px;
+  height:37px;
+  display:flex;
+  opacity:0;
+}
+#u19 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u19_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

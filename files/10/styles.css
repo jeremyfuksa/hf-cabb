@@ -21,7 +21,7 @@
   position:absolute;
   z-index:0;
 }
-#u25_img {
+#u26_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   width:1024px;
   height:620px;
 }
-#u25 {
+#u26 {
   border-width:0px;
   position:absolute;
   left:438px;
@@ -38,20 +38,20 @@
   height:620px;
   display:flex;
 }
-#u25 .text {
+#u26 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u25_text {
+#u26_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u26_div {
+#u27_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,44 +69,13 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u26 {
+#u27 {
   border-width:0px;
   position:absolute;
   left:669px;
   top:443px;
   width:790px;
   height:30px;
-  display:flex;
-  opacity:0;
-}
-#u26 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u26_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u27_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:163px;
-  height:37px;
-}
-#u27 {
-  border-width:0px;
-  position:absolute;
-  left:7px;
-  top:23px;
-  width:163px;
-  height:37px;
   display:flex;
   opacity:0;
 }
@@ -128,17 +97,18 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:342px;
-  height:22px;
+  width:163px;
+  height:37px;
 }
 #u28 {
   border-width:0px;
   position:absolute;
-  left:1275px;
-  top:40px;
-  width:342px;
-  height:22px;
+  left:7px;
+  top:23px;
+  width:163px;
+  height:37px;
   display:flex;
+  opacity:0;
 }
 #u28 .text {
   position:absolute;
@@ -148,6 +118,36 @@
   width:100%;
 }
 #u28_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u29_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:342px;
+  height:22px;
+}
+#u29 {
+  border-width:0px;
+  position:absolute;
+  left:1275px;
+  top:40px;
+  width:342px;
+  height:22px;
+  display:flex;
+}
+#u29 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u29_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
